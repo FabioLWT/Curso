@@ -18,5 +18,5 @@
 const allTypes = ["Daniel", 1, true, false, "Lopes"];
 
 for (const item of allTypes) {
-  console.log(item);
+  console.log("zero");
 }
