@@ -1,0 +1,13 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Executar Todos os Arquivos",
+        "skipFiles": ["<node_internals>/**"],
+        "program": "${workspaceFolder}/main.js" // Aponta para o script principal
+      }
+    ]
+  }
