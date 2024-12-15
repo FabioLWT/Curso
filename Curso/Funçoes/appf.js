@@ -7,7 +7,7 @@
 
 // //Função com parametro
 // function showOneName(name) {
-//   console.log(name);
+//   console.log(namE);
 // }
 
 // showOneName("Flavio");
